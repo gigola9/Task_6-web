@@ -1,0 +1,9 @@
+form {
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    border: 3px solid rgb(165, 160, 160);
+    padding: 10px;
+    margin: 10px auto;
+    background-color: rgb(241, 241, 200);
+}
